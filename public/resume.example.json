@@ -119,13 +119,13 @@
         {
             "name": "Lender Outlook",
             "publisher": "CalAmp",
-            "category": "<CATEGORY>",
+            "category": "Vehicle Monitoring Device",
             "releaseDate": "<RELEASE_DATE>",
             "website": "https://colt.calamp-ts.com",
             "summary": "If you’re a vehicle finance company, Buy-Here-Pay-Here dealer or credit union, you can reduce your risks while boosting business using Lender Outlook",
             "image": {
-                "modal": "<MODAL_IMAGE>",
-                "thumb": "<THUMBNAIL_IMAGE>"
+                "modal": "public/images/colt.png",
+                "thumb": "public/images/colt.png"
             },
             "keywords": [
                 "PHP",
@@ -136,13 +136,13 @@
 		{
             "name": "Cloud Manager",
             "publisher": "Xclaim Wireless",
-            "category": "<CATEGORY>",
+            "category": "WLAN/Clients/Networks",
             "releaseDate": "<RELEASE_DATE>",
             "website": "https://cloud.xclaimwireless.com/",
             "summary": "Web Application for Small and medium businesses to monitor their WLAN/Clients/Networks",
             "image": {
-                "modal": "<MODAL_IMAGE>",
-                "thumb": "<THUMBNAIL_IMAGE>"
+                "modal": "public/images/xclaim.png",
+                "thumb": "public/images/xclaim.png"
             },
             "keywords": [
                 "Ember JS",
@@ -159,8 +159,8 @@
             "website": "#",
             "summary": "Web application which provide feature of configuration & management option of vCPE devices",
             "image": {
-                "modal": "<MODAL_IMAGE>",
-                "thumb": "<THUMBNAIL_IMAGE>"
+                "modal": "public/images/hpe.png",
+                "thumb": "public/images/hpe.png"
             },
             "keywords": [
                 "Angular JS",
@@ -177,8 +177,8 @@
             "website": "http://www.aakash.ac.in/",
             "summary": "Web application for the educational institute to provide all the courses details online education",
             "image": {
-                "modal": "<MODAL_IMAGE>",
-                "thumb": "<THUMBNAIL_IMAGE>"
+                "modal": "public/images/aakash.png",
+                "thumb": "public/images/aakash.png"
             },
             "keywords": [
                 "PHP",
