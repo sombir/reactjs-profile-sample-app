@@ -2,12 +2,6 @@
 
 [`https://sombirsingh.herokuapp.com/`](https://sombirsingh.herokuapp.com/) is a static single-page application resumer-builder developed using React.js. 
 
-## Featured
-
-The site has been shown as demo React.js project on the following sites:
-
-* [react.rocks](https://react.rocks/example/JSON_Resume)
-* [爱前端](http://www.17shulihua.com/archives/404)
 
 ## Installation
 
