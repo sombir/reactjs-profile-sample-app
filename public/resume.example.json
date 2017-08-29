@@ -1,0 +1,273 @@
+{
+    "basics": {
+        "name": "Sombir Singh",
+        "label": "Overall 8 Years of Work Experience in Full Stack Web Application Development",
+        "picture": "public/images/sombir_pic.jpg",
+        "email": "sombirmca@gmail.com",
+        "phone": "9990216444",
+        "website": "sombirsingh.com",
+        "summary": [
+            "Conscientious, results-driven, articulate and analytical software engineer with several years exposure in data-driven software engineering teams, primarily focusing on backend/frontend and systems development of large-scale distributed systems. Strong in architectural research, software design and agile team management, having served as a tech lead at multiple companies.",
+            "Excellent written and verbal communication skills. Interested in challenging technical roles in scaling distributed web applications.",
+            "Overall 8 years of work experience as Full Stack Web Application development"
+        ],
+        "location": {
+            "address": "Hno 57 Gali No 2B, Basai Enclave",
+            "postalCode": "122001",
+            "city": "Gurugram",
+            "countryCode": "India",
+            "region": "NCR"
+        },
+        "profiles": [
+            {
+                "network": "email",
+                "username": "sombir",
+                "url": "mailto:sombirmca@gmail.com"
+            },
+			{
+                "network": "linkedin",
+                "username": "sombir",
+                "url": "https://www.linkedin.com/in/sombir-singh-607b8a15/"
+            },
+			{
+                "network": "stack-overflow",
+                "username": "sombir",
+                "url": "https://stackoverflow.com/users/5076915/sombir-singh"
+            },
+			{
+                "network": "github",
+                "username": "sombir",
+                "url": "https://github.com/sombir"
+            }
+        ]
+    },
+    "work": [
+        {
+            "company": "Aricent Technologies",
+            "position": "Technical Lead",
+            "website": "https://www.aricent.com/",
+            "startDate": "2015-06",
+            "endDate": "Till Now",
+            "summary": "Lead Frontend WEB/UI Developer",
+            "highlights": [
+                "Involved in the development and maintenance of the client's products in the IOT & Wireless Systems for mobile devices",
+                "Managing vCPE devices through web application which provide feature of configuration & management option of vCPE devices.",
+                "Managing a vehicle device through web portal by which you can monitor your vehicle location, performence etc."
+            ]
+        }
+    ],
+    "volunteer": [
+        {
+            "organization": "<ORGANIZATION_NAME>",
+            "position": "<POSITION>",
+            "website": "<WEBSITE>",
+            "startDate": "<START_DATE>",
+            "endDate": "<END_DATE>",
+            "summary": "<SUMMARY>",
+            "highlights": [
+                "<HIGHTLIGHT_1>",
+                "<HIGHTLIGHT_2>",
+                "<HIGHTLIGHT_3>"
+            ]
+        }
+    ],
+    "education": [
+        {
+            "institution": "Kurukshetra University",
+            "area": "MASTER OF COMPUTER APPLICATION",
+            "studyType": "COMPUTER APPLICATION",
+            "startDate": "2005-07",
+            "endDate": "2008-07",
+            "gpa": "<GRADE_POINT_AVERAGE>",
+            "summary": "JMIT, Radaur, Yamunanagar, Haryana",
+            "courses": [
+                "<COURSE_1>",
+                "<COURSE_2>",
+                "<COURSE_3>"
+            ]
+        },
+		{
+            "institution": "Kurukshetra University",
+            "area": "BACHELOR OF COMPUTER APPLICATION",
+            "studyType": "COMPUTER APPLICATION",
+            "startDate": "2002-07",
+            "endDate": "2005-07",
+            "gpa": "<GRADE_POINT_AVERAGE>",
+            "summary": "CRM JAT PG College, Hisar, Haryana",
+            "courses": [
+                "<COURSE_1>",
+                "<COURSE_2>",
+                "<COURSE_3>"
+            ]
+        }
+    ],
+    "awards": [
+        {
+            "title": "Developer of the Month",
+            "date": "<DATE>",
+            "awarder": "Rakesh Yadav, CEO, Adglobal360 India Pvt. Ltd",
+            "summary": "Developer of the Month in Adglobal360 India Pvt. Ltd twice"
+        },
+		{
+            "title": "Excellent Rating",
+            "date": "<DATE>",
+            "awarder": "Akhilesh baliyan, Senior Engineering Project Manager, Aricent Technologies",
+            "summary": "Developer of the Month in Adglobal360 India Pvt. Ltd twice"
+        }
+    ],
+    "projects": [
+        {
+            "name": "Lender Outlook",
+            "publisher": "CalAmp",
+            "category": "<CATEGORY>",
+            "releaseDate": "<RELEASE_DATE>",
+            "website": "https://colt.calamp-ts.com",
+            "summary": "If you’re a vehicle finance company, Buy-Here-Pay-Here dealer or credit union, you can reduce your risks while boosting business using Lender Outlook",
+            "image": {
+                "modal": "<MODAL_IMAGE>",
+                "thumb": "<THUMBNAIL_IMAGE>"
+            },
+            "keywords": [
+                "PHP",
+                "Kohana Framework",
+                "Rest API"
+            ]
+        },
+		{
+            "name": "Cloud Manager",
+            "publisher": "Xclaim Wireless",
+            "category": "<CATEGORY>",
+            "releaseDate": "<RELEASE_DATE>",
+            "website": "https://cloud.xclaimwireless.com/",
+            "summary": "Web Application for Small and medium businesses to monitor their WLAN/Clients/Networks",
+            "image": {
+                "modal": "<MODAL_IMAGE>",
+                "thumb": "<THUMBNAIL_IMAGE>"
+            },
+            "keywords": [
+                "Ember JS",
+                "Rest API",
+                "HTML5",
+                "CSS3"
+            ]
+        },
+		{
+            "name": "SSP & MSP Web Portal ",
+            "publisher": "HPE",
+            "category": "Managing Network vCPE devices",
+            "releaseDate": "<RELEASE_DATE>",
+            "website": "#",
+            "summary": "Web application which provide feature of configuration & management option of vCPE devices",
+            "image": {
+                "modal": "<MODAL_IMAGE>",
+                "thumb": "<THUMBNAIL_IMAGE>"
+            },
+            "keywords": [
+                "Angular JS",
+                "Rest API",
+                "HTML5",
+                "CSS3"
+            ]
+        },
+		{
+            "name": "Aakash Institute",
+            "publisher": "HPE",
+            "category": "Educational Stuff",
+            "releaseDate": "<RELEASE_DATE>",
+            "website": "http://www.aakash.ac.in/",
+            "summary": "Web application for the educational institute to provide all the courses details online education",
+            "image": {
+                "modal": "<MODAL_IMAGE>",
+                "thumb": "<THUMBNAIL_IMAGE>"
+            },
+            "keywords": [
+                "PHP",
+                "Drupal",
+                "HTML",
+                "CSS"
+            ]
+        }
+    ],
+    "skills": [
+        {
+            "title": "Programming Languages & Database",
+            "description": [
+                "Worked primarily with JavaScript, PHP and HTML, with frameworks such as Express.js, Node.js, React.js, AngularJS, Codigniter, CakePHP, Django, Drupal, Bootstrap, CSS3, LESS and SASS",
+                "Database & tools –MYSQL, SVN & Git"
+            ],
+            "skillDetails": [
+                {
+                    "name": "JavaScript: AngularJs, NodeJS, ReactJS, EmberJS, JQuery, AJAX",
+                    "level": "75",
+                    "keywords": [
+                        "AngularJs",
+                        "NodeJS",
+                        "ReactJS",
+                        "JQuery",
+                        "AJAX"
+                    ]
+                },
+				{
+                    "name": "PHP: PHP-4&5, CakePHP, Kohana, Codigniter, Drupal, WordPress",
+                    "level": "75"
+                },
+				{
+                    "name": "Database: MySQL",
+                    "level": "75"
+                },
+				{
+                    "name": "HTML: HTML, HTML5",
+                    "level": "70"
+                },
+				{
+                    "name": "CSS: CSS3, LESS, SASS, Bootstrap",
+                    "level": "65"
+                },
+				{
+                    "name": "Python: Django Framework",
+                    "level": "50"
+                }
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "name": "Hindi",
+            "level": "95"
+        },
+		{
+            "name": "English",
+            "level": "80"
+        }
+    ],
+    "interests": [
+        {
+            "name": "<INTEREST_NAME>",
+            "keywords": [
+                "<KEYWORD_1>",
+                "<KEYWORD_2>",
+                "<KEYWORD_3>"
+            ]
+        }
+    ],
+    "references": [
+        {
+            "name": "Praveen Agnihotri",
+            "position": "Senior Software Engineer",
+            "company": "Infinite IT Solutions",
+            "reference": "Sombir started working with Infinite IT Solutions at the same time I joined the team. He quickly picked up PHP despite not using it before, and is a reliable and conscientious developer. He confidently asks questions when specifications or plans are unclear, helping stimulate discussion when most crucial."
+        },
+		{
+            "name": "Sunil Kumar",
+            "position": "Senior Software Engineer",
+            "company": "Adglobal 360 India Pvt. Ltd.",
+            "reference": "Sombir was one of our first hires at Adglobal 360 India Pvt. Ltd. and I'm glad we got him. He worked diligently and gave much of himself to the company. He's a sharp computer scientist with broad interests. He can be trusted with much responsibility and to adapt quickly."
+        },
+		{
+            "name": "Vinod Kumar",
+            "position": "Technical Lead",
+            "company": "Aricent Technologies",
+            "reference": "Sombir is a great team leader. Not only focusing on company goals effectively, but also pay attention to the growth of all teammates and the team. He absolutely can act as PM role by his excellent communication skills."
+        }
+    ]
+}
